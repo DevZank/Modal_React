@@ -1,8 +1,12 @@
-# React + Vite
+# Modal PopUp com ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura de tela 2024-05-06 183329](https://github.com/DevZank/Modal_React/assets/111926496/c47a6a91-4d52-46aa-8ea6-d5f617572cf0)
+-
+Este é um componente de Modal PopUp desenvolvido com ReactJS. Ele fornece uma interface simples e personalizável para a exibição de modais em React.
 
-Currently, two official plugins are available:
+## Como usar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Instale o pacote via npm ou yarn:
+
+```bash
+npm install meu-modal-popup-react
